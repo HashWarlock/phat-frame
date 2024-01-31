@@ -1,9 +1,11 @@
 {
-  "repository": "https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame",
+  "repository": "https://github.com/HashWarlock/phat-frame",
   "license": "MIT",
   "dependencies": {
     "@syndicateio/syndicate-node": "^0.0.449",
     "@vercel/node": "^3.0.7",
-    "viem": "^2.5.0"
+    "viem": "^2.5.0",
+    "@chainlink/contracts": "0.8",
+    "@phala/solidity": "^0.0.4"
   }
 }

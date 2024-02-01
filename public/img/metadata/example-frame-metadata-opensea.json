@@ -1,12 +1,12 @@
 {
-  "name": "Built with Syndicate Frame API",
-  "description": "A placeholder Frame image and metadata. Go to frame.syndicate.io to learn more.",
-  "external_url": "https://frame.syndicate.io", 
-  "image": "ipfs://QmZxSDZGDVYi4nigq1PchS6jF3ZEM4SCrWhMKG9QKKkKNd",
+  "name": "Phat Squid Frame",
+  "description": "Having fun using Phala Phat Contract + Base Chain + Syndicate API + Airstack API, Oh My!",
+  "external_url": "https://phat-frame.vercel.app",
+  "image": "ipfs://bafkreidtxn2qjrty2jh4t72h7enjfffkq4bptyzbfhjelmh2gi4iceeus4",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark"
+      "value": "Green"
     },
     {
       "trait_type": "Chain",
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Gas",
-      "value": "Sponsored by Base"
+      "value": "Sponsored by Base + Phala"
     },
     {
       "trait_type": "Level",
-      "value": 4844
+      "value": 9000
     }
   ]
 }
